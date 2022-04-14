@@ -24,8 +24,11 @@ pip install os
 pip install signal
 pip install subprocess
 
+baixar o ItsAGramLive e colocar em uma pasta do windows (prefecendia raiz do sistema)
+criar uma pasta dentro do ItsAGramLive chamada obs.
+
 baixar a release do OBS-Studio e colocar na mesma
-pasta do ItsAGramLive e renomear a pasta para obs
+pasta obs
 
 copiar os arquivos live_broadcast_obs.py, iniciar.bat e iniciar.vbs para a pasta mae.
 iniciar.bat -> inicia em modo visualização, para configurar o obs portatil
