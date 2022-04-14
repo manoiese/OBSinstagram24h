@@ -12,7 +12,17 @@ psutil -> giampaolo -> https://github.com/giampaolo/psutil
 signal -> python -> https://github.com/python/cpython/blob/main/Lib/signal.py
 subprocess -> python -> https://github.com/python/cpython/blob/main/Lib/subprocess.py
 
-Install
+Install Windows
+
+install python3
+install pip
+pip install itsagramlive
+pip install argparse
+pip install json
+pip install psutil
+pip install os
+pip install signal
+pip install subprocess
 
 baixar a release do OBS-Studio e colocar na mesma
 pasta do ItsAGramLive e renomear a pasta para obs
