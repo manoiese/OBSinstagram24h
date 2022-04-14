@@ -34,4 +34,7 @@ copiar os arquivos live_broadcast_obs.py, iniciar.bat e iniciar.vbs para a pasta
 iniciar.bat -> inicia em modo visualização, para configurar o obs portatil<br />
 edit iniciar.bat para seu login e senha do instagram.<br />
 iniciar.vps inicia em modo oculto.<br />
-
+<br />
+(iniciar o obs pelo arquivo OBS64.exe dentro de obs/bin/64bit/obs64.exe<br />
+e configurar como se fosse fazer uma trasmissao, inclusive colocar um servidor rtsp<br />
+para criar o arquivo setup.json)<br />
