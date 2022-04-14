@@ -1,7 +1,7 @@
 # OBSinstagram24h
 Script para rodar obs 24h por dia para radio trasmissao ou trasmissao longa.
 
-script foi desenvolvido utilizando tecnologias de outros usuarios
+<pre>script foi desenvolvido utilizando tecnologias de outros usuarios
 
 ItsAGramLive -> @harrypython -> https://github.com/harrypython/itsagramlive
 Obs-Studio -> @obsproject -> https://github.com/obsproject/obs-studio
@@ -34,3 +34,4 @@ copiar os arquivos live_broadcast_obs.py, iniciar.bat e iniciar.vbs para a pasta
 iniciar.bat -> inicia em modo visualização, para configurar o obs portatil
 edit iniciar.bat para seu login e senha do instagram.
 iniciar.vps inicia em modo oculto.
+</pre>
