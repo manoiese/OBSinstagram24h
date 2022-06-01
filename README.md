@@ -23,6 +23,9 @@ pip install psutil<br />
 pip install os<br />
 pip install signal<br />
 pip install subprocess<br />
+pip install pyperclip<br />
+pip install requests<br />
+pip install Pillow<br />
 <br />
 baixar o ItsAGramLive e colocar em uma pasta do windows (prefecendia raiz do sistema)<br />
 criar uma pasta dentro do ItsAGramLive chamada obs.<br />
